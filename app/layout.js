@@ -1,5 +1,6 @@
 export const metadata = {
-  title: "DroneSurveyCR Mirror"
+  title: "DroneSurveyCR",
+  description: "DroneSurveyCR static site"
 };
 
 export default function RootLayout({ children }) {
